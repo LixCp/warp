@@ -1,1 +1,4 @@
+#profile-update-interval: 12
+#subscription-userinfo: upload=0; download=1; total=10737418240000000; expire=2546249531
+
 warp://auto#just Iran &&detour=warp://auto#just Germany
