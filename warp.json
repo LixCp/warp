@@ -1,2 +1,4 @@
-
+//profile-update-interval: 3
+//subscription-userinfo: upload=10; download=10;
+total=32; expire=20
 warp://auto#just Iran &&detour=warp://auto#just Germany
