@@ -9,7 +9,7 @@
         "2606:4700:110:8099:7ad3:efc:619e:a6f4/128"
       ],
       "private_key": "OD1pZnqzIOzR4AP/4mE7lg141G2m243+qud3B63VO3g=",
-      "server": "162.159.192.116",
+      "server": "bezarber.parsi.blog",
       "server_port": 7152,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [238,182,75],
@@ -25,7 +25,7 @@
         "2606:4700:110:8752:23d5:5159:e9ff:7d7e/128"
       ],
       "private_key": "ON8cvVfzBO+fmIb5ghhKsvT9gwUiTbai0+8CvzqLNlk=",
-      "server": "162.159.192.116",
+      "server": "bezarber.parsi.blog",
       "server_port": 3476,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [238,19,243],
