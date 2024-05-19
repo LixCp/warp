@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=0; download=0; total=10737418240000; expire=1717024550
+#subscription-userinfo: upload=0; download=0; total=10737418240000; expire=1717901259
 {
   "log": {
     "level": "warn",
