@@ -1,3 +1,4 @@
+#subscription-userinfo: expire=1717024550;
 {
   "log": {
     "level": "warn",
