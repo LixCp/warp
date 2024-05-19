@@ -1,4 +1,3 @@
-
 {
   "log": {
     "level": "warn",
@@ -98,8 +97,8 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "Iran § 0",
-        "Germany § 1"
+        "طهران § 0",
+        "مونیخ § 1"
       ],
       "default": "auto"
     },
@@ -107,8 +106,8 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "Iran § 0",
-        "Germany § 1"
+        "طهران § 0",
+        "مونیخ § 1"
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s",
@@ -116,7 +115,7 @@
     },
     {
       "type": "wireguard",
-      "tag": "Iran § 0",
+      "tag": "طهران § 0",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:8f75:7e79:4154:de93:c7d4/128"
@@ -133,8 +132,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "Germany § 1",
-      "detour": "Iran § 0",
+      "tag": "مونیخ § 1",
+      "detour": "طهران § 0",
       "local_address": [
         "172.16.0.2/24",
         "2606:4700:110:81eb:f9c8:ad84:9d4b:9ead/128"
