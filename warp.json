@@ -1,5 +1,5 @@
 #profile-update-interval: 3
-#subscription-userinfo: upload=100; download=780; total=1; expire=21
+#subscription-userinfo: upload=0; download=0; total=100000; expire=21
 
 {
   "log": {
